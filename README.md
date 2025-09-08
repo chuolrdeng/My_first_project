@@ -1,2 +1,2 @@
-# My_first_p:wqroject
+# my_first_repo
 To work on my projects for computational social science
